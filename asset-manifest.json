@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bitter-coin/static/css/main.f9f66e6a.css",
-    "main.js": "/bitter-coin/static/js/main.eeaff1e4.js",
+    "main.js": "/bitter-coin/static/js/main.7e885bb2.js",
     "static/media/choose-main.png": "/bitter-coin/static/media/choose-main.39852b7511b28d44406f.png",
     "static/media/bitcoin.png": "/bitter-coin/static/media/bitcoin.e146d46fb598ae0d8f43.png",
     "static/media/ethereum.png": "/bitter-coin/static/media/ethereum.c6cffe78f0c6abc85da9.png",
     "static/media/footer-bg.png": "/bitter-coin/static/media/footer-bg.e33c036e05f949cf81cb.png",
     "index.html": "/bitter-coin/index.html",
     "main.f9f66e6a.css.map": "/bitter-coin/static/css/main.f9f66e6a.css.map",
-    "main.eeaff1e4.js.map": "/bitter-coin/static/js/main.eeaff1e4.js.map"
+    "main.7e885bb2.js.map": "/bitter-coin/static/js/main.7e885bb2.js.map"
   },
   "entrypoints": [
     "static/css/main.f9f66e6a.css",
-    "static/js/main.eeaff1e4.js"
+    "static/js/main.7e885bb2.js"
   ]
 }
